@@ -1,1 +1,2 @@
-group1CompE131
+SCAM(Spartan Course Analysis and Matching)
+
