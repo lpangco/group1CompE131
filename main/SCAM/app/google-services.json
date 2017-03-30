@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "583908504242",
+    "firebase_url": "https://scam-b6d80.firebaseio.com",
+    "project_id": "scam-b6d80",
+    "storage_bucket": "scam-b6d80.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:583908504242:android:3be53eae1f6ee880",
+        "android_client_info": {
+          "package_name": "com.example.android.scam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "583908504242-1037u4doj3ullmd6qdv2ll5ekq8sptvl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.scam",
+            "certificate_hash": "8e0c4e0ee813ddda93620449377eb61575dd14a7"
+          }
+        },
+        {
+          "client_id": "583908504242-qq6ktmm0s7vn8s8enosqpgr5j4utl776.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "583908504242-sohuj145nboh3cf97f9dbld6j4i2k6di.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDc97H8F1QAI9lTUhqcI8aBX-QD6TxkNlo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "583908504242-qq6ktmm0s7vn8s8enosqpgr5j4utl776.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
